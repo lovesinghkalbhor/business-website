@@ -1,0 +1,50 @@
+
+
+.btn{
+    padding: 0.5rem;
+    font-size:1.3rem;
+    border-radius: 2rem;
+    width: 11rem;
+    color: #34555e;
+    background-color: rgb(249, 249, 249);
+    border-color: #fd737c;
+}
+.btn:hover{
+    background-color: #fd737c;
+}
+hr{
+    border:1px solid black
+}
+#header .animate{
+    border-radius: 3rem;
+    /* box-shadow: 3px 3px 20px  rgb(86, 87, 87); */
+    animation: up-down 1s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down {
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+
+    }
+}
+strong{
+    color: #fd737c;
+}
+h1,h2{
+    color: #34555e;
+}
+
+.form{
+    padding: 1rem;
+    border-radius: 2rem;
+    width: 25rem;
+    border: 2px solid black;
+
+}
+.form-container{
+    flex-direction: column;
+    align-items:center;
+}

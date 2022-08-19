@@ -1,0 +1,25 @@
+.nav-item{
+    font-size: 1.3rem;
+    color: wheat;
+}
+.navbar{
+    padding:1rem;
+    box-shadow: -1px 5px 40px rgb(82, 84, 85);
+}
+.nav-item:hover{
+    font-size: 1.5rem;
+    box-shadow: 5px 5px 5px lightblue;
+    border-radius: 1rem;
+    transition: 0.5s;
+    color:black;
+}
+h3{
+    margin: 1rem;
+    color: #34555e;
+    cursor: pointer;
+}
+h3:hover{
+    font-size: 1.9rem;
+    transition: 0.5s;
+    color: #fd737c;
+}
