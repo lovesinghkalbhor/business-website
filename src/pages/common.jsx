@@ -2,7 +2,7 @@
 import React from "react";
 // import { Link } from "react-router-dom";
 // import "./common.css";
-import about from "../images/about.jpg"
+import about from "./images/about.jpg"
 
 function Common(props) {
    

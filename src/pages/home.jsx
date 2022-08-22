@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 // import { Link } from "react-router-dom";
-import web from "../images/business.jpg"
+import web from "./images/business.jpg"
 import Common from "./common";
 import "./common.css"
 function Home() {

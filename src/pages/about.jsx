@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import about from "../images/about.jpg"
+import about from "./images/about.jpg"
 
 import Common from "./common";
 import "./common.css"
