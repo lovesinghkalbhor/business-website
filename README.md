@@ -1,4 +1,4 @@
-# simple front end of business-website
+# Frontend of business-website
 
 # Here is the video link of this project 
 
